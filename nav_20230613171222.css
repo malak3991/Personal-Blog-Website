@@ -1,0 +1,28 @@
+
+.navbar{
+    display: flex;
+    display: inline;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color:rgb(175, 179, 179);
+    
+}
+
+
+.nav ol li{
+    display: flex;
+    display: inline;
+    padding: 10px 20px;
+   
+
+}
+
+.nav ol li a{
+    color: rgb(191, 130, 50);
+    text-decoration: none;
+    font-weight: bold;
+}
